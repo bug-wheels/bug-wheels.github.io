@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/bug-wheels/',
+    // base: '/bug-wheels/',
 
     // 站点配置
     lang: 'zh-CN',
