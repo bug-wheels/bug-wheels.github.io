@@ -20,7 +20,7 @@ jobs:
       uses: jenkey2011/vuepress-deploy@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACTION_SECRET }}
-        TARGET_REPO: bug-wheels/bug-wheels
+        TARGET_REPO: bug-wheels/bug-wheels.github.io
         TARGET_BRANCH: gh_pages
         BUILD_SCRIPT: yarn && yarn docs:build
         BUILD_DIR: docs/.vuepress/dist/
