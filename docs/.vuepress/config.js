@@ -47,50 +47,6 @@ module.exports = {
           {text: 'Maven Thrift Plugin', link: 'maven-thrift-plugin'},
         ],
       }]
-    }, // sidebar: [
-    //   // SidebarItem
-    //   {
-    //     text: '指南',
-    //     link: '/guide/',
-    //     children: [
-    //       // SidebarItem
-    //       {
-    //         text: '快速上手',
-    //         link: 'getting-started',
-    //       }
-    //     ],
-    //   },
-    //   {
-    //     text: '指南',
-    //     link: '/constellation/',
-    //     children: [
-    //       // SidebarItem
-    //       {
-    //         text: 'gaga',
-    //         link: 'getting-started',
-    //       }
-    //     ],
-    //   },
-    // ],
-    // sidebar: {
-    //   '/guide/': [
-    //       'getting-started', /* /contact.html */
-    //       'about'    /* /about.html */
-    //     ],
-    //   '/constellation/': [
-    //     '',     /* /foo/ */
-    //     'one',  /* /foo/one.html */
-    //     'two'   /* /foo/two.html */
-    //   ],
-    //
-    //   '/bar/': [
-    //     '',      /* /bar/ */
-    //     'three', /* /bar/three.html */
-    //     'four'   /* /bar/four.html */
-    //   ],
-    //
-    //   // fallback
-    //
-    // }
+    },
   },
 }

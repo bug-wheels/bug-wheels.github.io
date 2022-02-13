@@ -1,12 +1,3 @@
----
-features:
-
-- title: 浅尝辄止 details: 所有的轮子都有可能半途而废。
-- title: 技术驱动 details: 只享受写代码带来的体验，不保证技术落地性，同时不追求技术的稳定性和落地可行性。
-- title: 高风险 details: 每一个轮子都可能有很多未知的 Bug，团队不负责修复 Bug。 footer: Apache Licensed | Copyright © 2021-present
-
----
-
 # Thrift Spring Boot Starter
 
 ![轮子](https://img.shields.io/badge/wheels-%E8%BD%AE%E5%AD%90-red)
@@ -24,7 +15,6 @@ Spring Boot starter module for Thrift framework.
 
 本项目主要为了提高 Thrift 在 Spring Boot 和 Spring Cloud 中的使用体验，简化其配置方式，提供开箱即用的体验，在 Spring Cloud 的环境中提供注册发现和负载均衡功能模块。
 
-![apache thrift](./docs/apache_thrift.png)
 
 **服务端：**
 
