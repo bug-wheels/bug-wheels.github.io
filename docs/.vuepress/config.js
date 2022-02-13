@@ -9,13 +9,16 @@ module.exports = {
   theme: '@vuepress/theme-default',
   themeConfig: {
     logo: '/logo_small.jpeg',
-    navbar: [{text: 'Home', link: '/'}, {text: 'Guide', link: '/guide/'}, {
-      text: '十二星座',
-      link: '/constellation/'
-    }, {text: '希腊神话', link: '/greece/'}, {text: '其他', link: '/other/'}, {
-      text: 'Spring',
-      link: '/spring/'
-    }, {text: 'Gitee', link: 'https://gitee.com/bug-wheels'}, {text: 'GitHub', link: 'https://github.com/bug-wheels'},],
+    navbar: [
+      {text: 'Home', link: '/'},
+      {text: 'Guide', link: '/guide/'},
+      {text: '十二星座', link: '/constellation/'},
+      // {text: '希腊神话', link: '/greece/'},
+      {text: '其他', link: '/other/'},
+      {text: 'Spring', link: '/spring/'},
+      {text: 'Gitee', link: 'https://gitee.com/bug-wheels'},
+      {text: 'GitHub', link: 'https://github.com/bug-wheels'},
+    ],
     sidebar: {
       '/guide/': [{
         text: '指南',
