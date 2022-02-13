@@ -4,9 +4,7 @@ heroImage: /logo_small.jpeg
 heroText: Bug Wheels
 tagline: 一个专门写 Bug 的轮子组织
 actions:
-  - text: 快速上手
-    link: /zh/guide/getting-started.html
-    type: primary
+  - text: 快速上手 link: /guide/getting-started type: primary
   - text: 项目简介
     link: /guide/
     type: secondary
