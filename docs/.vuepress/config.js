@@ -48,6 +48,7 @@ module.exports = {
           {text: '项目列表', link: 'README.md'},
           {text: 'Thrift Spring Boot Starter', link: 'thrift-spring-boot-starter'},
           {text: 'Maven Thrift Plugin', link: 'maven-thrift-plugin'},
+          {text: 'MyBatis Generator Example Enhance', link: 'mybatis-generator-example-enhance'},
         ],
       }]
     },
