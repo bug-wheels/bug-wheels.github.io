@@ -12,6 +12,7 @@ module.exports = {
     navbar: [
       {text: 'Home', link: '/'},
       {text: 'Guide', link: '/guide/'},
+      {text: 'plan', link: '/plan/'},
       {text: '十二星座', link: '/constellation/'},
       // {text: '希腊神话', link: '/greece/'},
       {text: '其他', link: '/other/'},

@@ -10,6 +10,9 @@ actions:
   - text: 项目简介
     link: /guide/
     type: secondary
+  - text: 项目计划
+    link: /plan/
+    type: secondary
 features:
   - title: 浅尝辄止
     details: 所有的轮子都有可能半途而废。
