@@ -32,7 +32,7 @@ module.exports = {
         children: ['README.md', {
           text: 'SentinelX', link: 'SentinelX',
         }, {
-          text: 'RateLimter', link: 'RateLimter',
+          text: 'RateLimiter', link: 'RateLimiter',
         }],
       }],
       '/constellation/': [{
