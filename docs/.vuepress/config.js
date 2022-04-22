@@ -27,6 +27,14 @@ module.exports = {
           text: '快速上手', link: 'getting-started',
         }],
       }],
+      '/plan/': [{
+        text: 'plan',
+        children: ['README.md', {
+          text: 'SentinelX', link: 'SentinelX',
+        }, {
+          text: 'RateLimter', link: 'RateLimter',
+        }],
+      }],
       '/constellation/': [{
         text: '十二星座',
         children: [{
