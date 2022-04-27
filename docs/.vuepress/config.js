@@ -33,6 +33,8 @@ module.exports = {
           text: 'SentinelX', link: 'SentinelX',
         }, {
           text: 'RateLimiter', link: 'RateLimiter',
+        }, {
+          text: 'Redis Java 17', link: 'Redis4J17',
         }],
       }],
       '/constellation/': [{
