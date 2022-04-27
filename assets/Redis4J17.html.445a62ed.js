@@ -1,0 +1,1 @@
+const e={key:"v-2ec60fa2",path:"/plan/Redis4J17.html",title:"Redis Java \u7248\u672C",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"Why ?",slug:"why",children:[]}],git:{updatedTime:1651024795e3,contributors:[{name:"zhangyunan",email:"zyndev@gmail.com",commits:1}]},filePathRelative:"plan/Redis4J17.md"};export{e as data};

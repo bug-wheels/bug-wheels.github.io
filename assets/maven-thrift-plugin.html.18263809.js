@@ -1,0 +1,1 @@
+const t={key:"v-cc868368",path:"/other/maven-thrift-plugin.html",title:"Maven Thrift Plugin",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651024795e3,contributors:[{name:"zhangyunan",email:"zyndev@gmail.com",commits:1}]},filePathRelative:"other/maven-thrift-plugin.md"};export{t as data};

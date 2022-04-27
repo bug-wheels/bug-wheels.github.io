@@ -1,0 +1,1 @@
+const t={key:"v-594b61fd",path:"/constellation/capricorn.html",title:"\u6CE8\u518C\u4E2D\u5FC3",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651024795e3,contributors:[{name:"zhangyunan",email:"zyndev@gmail.com",commits:1}]},filePathRelative:"constellation/capricorn.md"};export{t as data};

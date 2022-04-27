@@ -1,0 +1,1 @@
+const t={key:"v-2dad0ff5",path:"/constellation/",title:"\u9879\u76EE\u5217\u8868",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651024795e3,contributors:[{name:"zhangyunan",email:"zyndev@gmail.com",commits:1}]},filePathRelative:"constellation/README.md"};export{t as data};
